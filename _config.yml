@@ -1,0 +1,28 @@
+name: delphium
+favicon: null
+layout_spectrum: 0.36660927231423557
+typography_spectrum: 0.20702755032107234
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5991893897298723
+  lightness: 0.3107445309869945
+  saturation: 0.6263926636893302
+  rhythmicContrast: 0.8710427735932171
+purpose: []
